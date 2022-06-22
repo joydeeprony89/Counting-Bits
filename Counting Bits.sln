@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Bits", "Counting Bits\Counting Bits.csproj", "{4D05C8B6-F74A-4AC9-AC39-A376FA7A514C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D05C8B6-F74A-4AC9-AC39-A376FA7A514C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D05C8B6-F74A-4AC9-AC39-A376FA7A514C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D05C8B6-F74A-4AC9-AC39-A376FA7A514C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D05C8B6-F74A-4AC9-AC39-A376FA7A514C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {304BF7BA-9809-4FAA-9A3F-DCF7D1205A95}
+	EndGlobalSection
+EndGlobal
